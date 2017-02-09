@@ -10,3 +10,5 @@ Usage is very straight forward:
 ```
 ViceAdfDecrypt <input_radio_station.adf>
 ```
+
+On Windows you can just drag and drop the ADF file onto the program.
